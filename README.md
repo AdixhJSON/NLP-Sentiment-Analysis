@@ -7,7 +7,7 @@ A three-class NLP project that classifies Samsung mobile phone reviews as positi
 - Cleaned review text and combined review titles with review bodies.
 - Converted text to TF-IDF features using up to 5,000 unigram and bigram features.
 - Compared Multinomial Naive Bayes, Logistic Regression, and LinearSVC.
-- Selected a class-balanced LinearSVC model.
+- Selected a class-balanced LinearSVC model (SVM).
 
 ## Results
 
